@@ -1,0 +1,15 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1_2\arm\bin\armPROC.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1_2\arm\bin\armJLINK.dll" 
+
+"D:\_yzx_job\MKS_Bootloader\USB_Project\Bootloader\GD32\GD32F303\GD32F303_USB_CDC_ACM\EWARM\USBD\Exe\cdc_acm.hex" 
+
+--plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.1_2\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.1_2\arm/config/debugger/GD/GD32F30x.dmac" 
+
+--flash_loader="C:\Program Files\IAR Systems\Embedded Workbench 9.1_2\arm/config/flashloader/GD/FlashGD32F303xB.board" 
+
+
+
+
